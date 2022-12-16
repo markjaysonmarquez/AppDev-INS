@@ -9,8 +9,7 @@ public class MyCsharp
     // Expected Line 2, replace this comment with code on pull request
 	}
 	
-	public void printName(string name)
+	system.console("hello world")
 	{
-		Console.WriteLine("Hello! My name is " + name);
 	}
 }
